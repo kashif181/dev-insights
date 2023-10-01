@@ -1,6 +1,4 @@
 
-# Spring Core Fundamentals 
-
 ## Inversion of Control
 Is basically a object-oriented Principle, in which an object do not know the concrete implementations of other objects but have an abstract (Interface) knowledge 
 
